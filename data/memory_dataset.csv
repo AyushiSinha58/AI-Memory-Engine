@@ -1,0 +1,421 @@
+message,type,label
+thanks a lot,casual,0
+"Hey, I prefer remote work",preference,1
+I am working on an AI project,context,1
+"Hey, I prefer working at night",preference,1
+"Hey, What is best for me?",question,0
+I am preparing for interviews recently,context,1
+"Actually, What is best for me?",question,0
+"Hey, My name is Ayushi",personal,1
+I enjoy reading books a lot,preference,1
+I prefer remote work recently,preference,1
+"Hey, haha",casual,0
+What do you think? recently,question,0
+"Hey, hello",casual,0
+I am building a chatbot a lot,context,1
+"Actually, What do you think?",question,0
+"Actually, I have two siblings",personal,1
+I am learning data science a lot,context,1
+I am preparing for interviews a lot,context,1
+"Hey, I study computer science",personal,1
+Can you help me? a lot,question,0
+"Actually, alright",casual,0
+I prefer remote work recently,preference,1
+I prefer remote work,preference,1
+I like Python,preference,1
+I study computer science recently,personal,1
+"Hey, hmm",casual,0
+"Hey, I prefer remote work",preference,1
+"Hey, I hate Java",preference,1
+I live in Delhi a lot,personal,1
+"Hey, I am learning data science",context,1
+I love machine learning a lot,preference,1
+I have a deadline tomorrow a lot,context,1
+I am 21 years old,personal,1
+"Actually, I have a deadline tomorrow",context,1
+"Hey, I like cricket",preference,1
+I have a deadline tomorrow a lot,context,1
+"Actually, I like pizza",preference,1
+cool recently,casual,0
+"Hey, I have a dog",personal,1
+I hate Java a lot,preference,1
+"Actually, I work as a developer",personal,1
+I prefer working at night,preference,1
+nice a lot,casual,0
+hello a lot,casual,0
+I like pizza a lot,preference,1
+I have a deadline tomorrow a lot,context,1
+I am a student a lot,personal,1
+I am preparing for interviews a lot,context,1
+"Actually, I prefer remote work",preference,1
+"Hey, I am working on an AI project",context,1
+"Actually, Any suggestions?",question,0
+I am a student,personal,1
+"Actually, I like Python",preference,1
+"Hey, My name is Ayushi",personal,1
+I am building a chatbot,context,1
+I like pizza a lot,preference,1
+"Actually, I like pizza",preference,1
+nice,casual,0
+I have a dog recently,personal,1
+Can you help me? a lot,question,0
+I am preparing for interviews,context,1
+I prefer working at night recently,preference,1
+What should I learn? recently,question,0
+I have two siblings,personal,1
+"Actually, ok",casual,0
+I enjoy coding,preference,1
+great a lot,casual,0
+What should I learn?,question,0
+haha a lot,casual,0
+I prefer remote work recently,preference,1
+"Hey, I am learning data science",context,1
+cool recently,casual,0
+I like pizza a lot,preference,1
+cool a lot,casual,0
+"Actually, I am working on an AI project",context,1
+I prefer remote work recently,preference,1
+thanks,casual,0
+I like Python recently,preference,1
+great,casual,0
+"Actually, I live in Delhi",personal,1
+I hate Java recently,preference,1
+I am learning data science a lot,context,1
+I love machine learning,preference,1
+"Hey, lol",casual,0
+I am preparing for interviews,context,1
+lol,casual,0
+I am learning data science a lot,context,1
+I am learning data science recently,context,1
+My name is Ayushi,personal,1
+hmm,casual,0
+My name is Ayushi a lot,personal,1
+I love music recently,preference,1
+I love music a lot,preference,1
+I study computer science,personal,1
+"Hey, I am building a chatbot",context,1
+"Hey, lol",casual,0
+I am 21 years old recently,personal,1
+I am working on an AI project a lot,context,1
+"Hey, I am building a chatbot",context,1
+lol a lot,casual,0
+"Hey, I have a deadline tomorrow",context,1
+hmm recently,casual,0
+"Hey, My name is Ayushi",personal,1
+I have a deadline tomorrow recently,context,1
+I love machine learning,preference,1
+I enjoy coding,preference,1
+I live in Delhi recently,personal,1
+"Hey, I am preparing for interviews",context,1
+I have two siblings a lot,personal,1
+"Actually, I live in Delhi",personal,1
+cool recently,casual,0
+I live in Delhi,personal,1
+"Actually, I like pizza",preference,1
+lol,casual,0
+I am building a chatbot,context,1
+"Hey, I study computer science",personal,1
+I am working on an AI project,context,1
+I am a student,personal,1
+"Actually, I love music",preference,1
+I prefer remote work,preference,1
+My birthday is in June,personal,1
+hi a lot,casual,0
+I have a dog recently,personal,1
+I love machine learning,preference,1
+Any suggestions?,question,0
+"Hey, I live in Delhi",personal,1
+"Actually, haha",casual,0
+I like Python recently,preference,1
+"Actually, What should I learn?",question,0
+"Hey, What is best for me?",question,0
+thanks a lot,casual,0
+My birthday is in June a lot,personal,1
+What do you think? a lot,question,0
+What do you think?,question,0
+thanks,casual,0
+I have a dog recently,personal,1
+I am 21 years old a lot,personal,1
+I am building a chatbot a lot,context,1
+I am working on an AI project recently,context,1
+I live in Delhi a lot,personal,1
+thanks recently,casual,0
+I study computer science,personal,1
+"Actually, My birthday is in June",personal,1
+I love music,preference,1
+I have a deadline tomorrow a lot,context,1
+I am learning data science,context,1
+"Actually, I am preparing for interviews",context,1
+Can you help me?,question,0
+"Hey, I enjoy coding",preference,1
+I work as a developer,personal,1
+"Actually, I prefer remote work",preference,1
+"Hey, I am learning data science",context,1
+I like cricket a lot,preference,1
+haha recently,casual,0
+I prefer working at night,preference,1
+hmm recently,casual,0
+I like pizza,preference,1
+"Hey, I prefer working at night",preference,1
+thanks,casual,0
+"Hey, I hate Java",preference,1
+My name is Ayushi recently,personal,1
+I enjoy reading books,preference,1
+"Hey, thanks",casual,0
+"Hey, I enjoy reading books",preference,1
+"Hey, Any suggestions?",question,0
+"Hey, haha",casual,0
+Can you help me?,question,0
+"Actually, I study computer science",personal,1
+"Actually, I am working on an AI project",context,1
+I study computer science recently,personal,1
+I prefer working at night,preference,1
+What should I learn? a lot,question,0
+"Actually, I am learning data science",context,1
+I have two siblings recently,personal,1
+"Actually, I have two siblings",personal,1
+"Actually, I enjoy coding",preference,1
+"Actually, hi",casual,0
+ok,casual,0
+I love music,preference,1
+I live in Delhi recently,personal,1
+"Actually, I prefer working at night",preference,1
+"Actually, hmm",casual,0
+hmm,casual,0
+thanks recently,casual,0
+"Actually, haha",casual,0
+"Actually, I have two siblings",personal,1
+"Actually, nice",casual,0
+I enjoy coding a lot,preference,1
+I live in Delhi recently,personal,1
+"Actually, I love machine learning",preference,1
+I am learning data science recently,context,1
+I work as a developer a lot,personal,1
+alright,casual,0
+I enjoy reading books recently,preference,1
+"Hey, I like pizza",preference,1
+thanks a lot,casual,0
+Any suggestions? a lot,question,0
+I am learning data science a lot,context,1
+"Hey, I like pizza",preference,1
+"Hey, I live in Delhi",personal,1
+great recently,casual,0
+"Hey, I am working on an AI project",context,1
+"Actually, I am 21 years old",personal,1
+"Actually, I am working on an AI project",context,1
+I am preparing for interviews,context,1
+hi recently,casual,0
+I have two siblings,personal,1
+"Actually, My name is Ayushi",personal,1
+I am building a chatbot recently,context,1
+I hate Java a lot,preference,1
+"Hey, What do you think?",question,0
+"Actually, I prefer remote work",preference,1
+I like pizza,preference,1
+I have a dog a lot,personal,1
+"Actually, What should I learn?",question,0
+I prefer remote work,preference,1
+"Hey, My name is Ayushi",personal,1
+I am learning data science recently,context,1
+Can you help me?,question,0
+thanks,casual,0
+"Actually, I am building a chatbot",context,1
+I am working on an AI project,context,1
+I enjoy coding recently,preference,1
+"Actually, Can you help me?",question,0
+Any suggestions? recently,question,0
+I enjoy reading books,preference,1
+My birthday is in June recently,personal,1
+"Hey, I am working on an AI project",context,1
+hello,casual,0
+What do you think? a lot,question,0
+I love machine learning,preference,1
+lol,casual,0
+"Actually, I work as a developer",personal,1
+"Hey, I live in Delhi",personal,1
+"Hey, I love music",preference,1
+"Actually, I am working on an AI project",context,1
+"Actually, I like cricket",preference,1
+I have two siblings a lot,personal,1
+"Actually, I enjoy reading books",preference,1
+"Actually, I have a dog",personal,1
+cool recently,casual,0
+Any suggestions?,question,0
+"Hey, I enjoy reading books",preference,1
+My birthday is in June a lot,personal,1
+"Actually, I prefer working at night",preference,1
+I love music a lot,preference,1
+hmm recently,casual,0
+I work as a developer recently,personal,1
+"Actually, I study computer science",personal,1
+"Actually, I am learning data science",context,1
+"Hey, What is best for me?",question,0
+thanks,casual,0
+I have a dog,personal,1
+"Hey, What is best for me?",question,0
+I work as a developer,personal,1
+I have a deadline tomorrow recently,context,1
+I prefer working at night recently,preference,1
+"Actually, I study computer science",personal,1
+"Hey, I am working on an AI project",context,1
+"Hey, I have a deadline tomorrow",context,1
+Can you help me? recently,question,0
+I have a dog recently,personal,1
+nice,casual,0
+What do you think? recently,question,0
+"Hey, I am building a chatbot",context,1
+My birthday is in June recently,personal,1
+I have a deadline tomorrow recently,context,1
+I enjoy coding a lot,preference,1
+I love music a lot,preference,1
+I love music a lot,preference,1
+I hate Java a lot,preference,1
+"Actually, What do you think?",question,0
+I have two siblings,personal,1
+I have a deadline tomorrow,context,1
+ok recently,casual,0
+Any suggestions? recently,question,0
+What do you think?,question,0
+"Actually, I am building a chatbot",context,1
+haha recently,casual,0
+I prefer working at night recently,preference,1
+I live in Delhi a lot,personal,1
+"Hey, I am a student",personal,1
+I like cricket a lot,preference,1
+I love machine learning recently,preference,1
+I am 21 years old,personal,1
+"Hey, I am building a chatbot",context,1
+I like pizza,preference,1
+"Actually, My birthday is in June",personal,1
+"Actually, I study computer science",personal,1
+"Hey, I like pizza",preference,1
+"Actually, I have a deadline tomorrow",context,1
+"Actually, I have a deadline tomorrow",context,1
+What should I learn? recently,question,0
+My birthday is in June a lot,personal,1
+"Hey, What should I learn?",question,0
+I am learning data science,context,1
+"Actually, I love machine learning",preference,1
+I study computer science a lot,personal,1
+"Actually, hmm",casual,0
+Can you help me?,question,0
+I am learning data science,context,1
+I like Python a lot,preference,1
+I like Python a lot,preference,1
+I am preparing for interviews recently,context,1
+"Hey, I prefer working at night",preference,1
+"Hey, I am learning data science",context,1
+I enjoy coding a lot,preference,1
+"Actually, I am preparing for interviews",context,1
+I work as a developer a lot,personal,1
+"Hey, Can you help me?",question,0
+lol a lot,casual,0
+I like cricket recently,preference,1
+I love music a lot,preference,1
+cool,casual,0
+I love machine learning a lot,preference,1
+"Hey, I like Python",preference,1
+"Hey, What should I learn?",question,0
+I love machine learning,preference,1
+"Actually, I am learning data science",context,1
+My birthday is in June a lot,personal,1
+I am working on an AI project,context,1
+I prefer remote work,preference,1
+I enjoy reading books recently,preference,1
+I love music,preference,1
+I enjoy reading books a lot,preference,1
+"Hey, What is best for me?",question,0
+I prefer working at night,preference,1
+"Actually, I prefer working at night",preference,1
+nice a lot,casual,0
+"Actually, I am working on an AI project",context,1
+My birthday is in June a lot,personal,1
+"Actually, I am preparing for interviews",context,1
+"Hey, I have a deadline tomorrow",context,1
+"Hey, I am 21 years old",personal,1
+I like pizza a lot,preference,1
+"Actually, I am learning data science",context,1
+"Hey, What is best for me?",question,0
+Can you help me? a lot,question,0
+Any suggestions? a lot,question,0
+"Actually, I study computer science",personal,1
+I hate Java recently,preference,1
+I have a dog a lot,personal,1
+"Actually, I have a deadline tomorrow",context,1
+What do you think? a lot,question,0
+I love machine learning recently,preference,1
+"Hey, My name is Ayushi",personal,1
+I am learning data science,context,1
+"Actually, I am a student",personal,1
+What is best for me? a lot,question,0
+"Actually, I am 21 years old",personal,1
+"Actually, I enjoy reading books",preference,1
+"Hey, I love machine learning",preference,1
+alright recently,casual,0
+I work as a developer recently,personal,1
+"Hey, great",casual,0
+I enjoy coding recently,preference,1
+lol a lot,casual,0
+"Hey, I am learning data science",context,1
+I have two siblings recently,personal,1
+I hate Java,preference,1
+"Hey, I prefer working at night",preference,1
+"Hey, I live in Delhi",personal,1
+I prefer working at night,preference,1
+"Actually, My name is Ayushi",personal,1
+"Hey, I am building a chatbot",context,1
+ok,casual,0
+ok,casual,0
+alright recently,casual,0
+I have a deadline tomorrow recently,context,1
+I enjoy reading books a lot,preference,1
+"Actually, I love machine learning",preference,1
+Can you help me? recently,question,0
+What do you think? a lot,question,0
+I love music,preference,1
+I am learning data science,context,1
+I have two siblings a lot,personal,1
+I am 21 years old recently,personal,1
+"Actually, What should I learn?",question,0
+I have a dog,personal,1
+I like cricket a lot,preference,1
+alright,casual,0
+I like pizza recently,preference,1
+"Hey, cool",casual,0
+I am 21 years old a lot,personal,1
+"Actually, I prefer working at night",preference,1
+"Actually, lol",casual,0
+My birthday is in June a lot,personal,1
+"Actually, I hate Java",preference,1
+I like pizza recently,preference,1
+"Actually, ok",casual,0
+I am 21 years old,personal,1
+"Hey, My name is Ayushi",personal,1
+My birthday is in June a lot,personal,1
+"Hey, I like pizza",preference,1
+"Actually, I enjoy reading books",preference,1
+"Actually, My birthday is in June",personal,1
+I love music a lot,preference,1
+I have a deadline tomorrow a lot,context,1
+I love machine learning a lot,preference,1
+"Hey, I hate Java",preference,1
+"Actually, What should I learn?",question,0
+"Hey, thanks",casual,0
+"Hey, I am working on an AI project",context,1
+"Hey, I like Python",preference,1
+"Hey, I study computer science",personal,1
+I live in Delhi a lot,personal,1
+"Hey, I have a dog",personal,1
+I am working on an AI project recently,context,1
+I prefer remote work a lot,preference,1
+What should I learn?,question,0
+"Hey, My birthday is in June",personal,1
+I am working on an AI project recently,context,1
+"Hey, What should I learn?",question,0
+"Actually, haha",casual,0
+"Hey, I am building a chatbot",context,1
+"Hey, I am 21 years old",personal,1
+I study computer science a lot,personal,1
+"Hey, I am a student",personal,1
+I like Python a lot,preference,1
+I enjoy coding,preference,1
