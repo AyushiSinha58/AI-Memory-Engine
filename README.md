@@ -3,8 +3,6 @@
 A Python-based AI system that simulates long-term memory in chatbots by storing, retrieving, and prioritizing past interactions 
 using a combination of SQL and Large Language Models (LLMs).
 
----
-
 📌 Overview
 
 This project implements a memory-augmented chatbot pipeline that overcomes the stateless nature of traditional LLMs.
@@ -19,9 +17,7 @@ It supports:
 * Context injection into LLM prompts
 * End-to-end chatbot interaction
 
----
-
-## 🚀 Features
+🚀 Features
 
 * 🧠 Persistent memory system
 * 🗄️ SQL-based memory storage
@@ -31,9 +27,7 @@ It supports:
 * 🤖 LLM-powered response generation
 * 🧩 Modular architecture
 
----
-
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
 * Python
 * SQL (MySQL / SQLite compatible)
@@ -42,36 +36,32 @@ It supports:
 * dotenv
 * Custom retrieval logic
 
----
-
 🧪 How It Works
 
-### Memory Storage
+1. Memory Storage
 
 * User-related data is stored in a structured SQL table
 * Each memory contains importance, frequency, and timestamps
 
-### Retrieval Phase
+2. Retrieval Phase
 
 * Relevant memories are fetched based on query similarity
 * Results are ranked using importance score
 
-### Response Generation
+3. Response Generation
 
 * Retrieved memories are injected into the prompt
 * LLM generates a context-aware response
 
-### Learning Mechanism
+4. Learning Mechanism
 
 * Memory frequency increases with usage
 * Last accessed timestamps are updated
 
----
+🗄️ Database Schema
 
-## 🗄️ Database Schema
-
-```sql id="schema2"
-CREATE TABLE memory (
+```
+CREATE TABLE IF NOT EXISTS memory (
     id INT AUTO_INCREMENT PRIMARY KEY,
     content TEXT,
     type VARCHAR(50),
@@ -82,26 +72,22 @@ CREATE TABLE memory (
 );
 ```
 
----
-
 ▶️ Usage
 
-### Run the Chatbot
+1. Run the Chatbot
 
-```id="run2"
+```
 python test_system.py
 ```
 
-### Example Interaction
+2. Example Interaction
 
-```id="example_run"
+```
 User: I like coffee  
 User: What do I like?  
 
 Bot: You mentioned that you like coffee.
 ```
-
----
 
 📊 Results
 
