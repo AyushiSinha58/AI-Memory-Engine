@@ -96,16 +96,12 @@ Bot: You mentioned that you like coffee.
 * Supports dynamic memory updates (frequency & recency)
 * Works across multiple interactions
 
----
-
 ⚠️ Limitations
 
 * Retrieval is keyword-based (not semantic yet)
 * No vector database integration
 * Performance depends on memory size
 * No UI (CLI-based interaction)
-
----
 
 🔮 Future Improvements
 
@@ -115,13 +111,9 @@ Bot: You mentioned that you like coffee.
 * 👥 Multi-user memory handling
 * 📈 Adaptive importance scoring
 
----
-
 📜 License
 
 This project is for educational and experimental purposes.
-
----
 
 ⭐ Project Goal
 
